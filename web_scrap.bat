@@ -1,0 +1,1 @@
+"C:\Users\yajat\AppData\Local\Programs\Python\Python38-32\python.exe" "C:\Users\yajat\Documents\courses\python3essentialLiL\WebScraping\try1.py"
